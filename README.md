@@ -24,7 +24,7 @@ My background combines full-stack product engineering, frontend architecture, ba
 
 I have worked on enterprise applications, customer-facing products, internal platforms, automation, authentication, auditability, data workflows, and real-time systems.
 
-My experience includes Carnegie Learning, Computing System Innovations, ADP, and Dell Technologies, collaborating with distributed teams across Brazil and the United States.
+My experience includes Carnegie Learning, Computing System Innovations, ADP, and Dell Technologies, collaborating with distributed teams across the world.
 
 ## What I’ve built and contributed to
 
