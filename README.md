@@ -110,20 +110,3 @@ Experience supporting containerized applications, cloud environments, automated 
 **Testing and quality:** Jest · React Testing Library · unit testing · integration testing · automated testing · code coverage · SonarQube · CI/CD
 
 Testing, maintainability, documentation, observability, accessibility, and developer experience are treated as part of product delivery rather than separate finishing steps.
-
-## Featured project
-
-### [Project Name](https://github.com/rspier-ax/project-name)
-
-A full-stack project created to solve a concrete product or operational problem.
-
-The repository documents the problem, architecture, main engineering decisions, trade-offs, local development environment, testing strategy, and potential evolution of the system.
-
-**Engineering highlights**
-
-* Full-stack architecture connecting the user interface, application services, data layer, and infrastructure.
-* Clear separation of responsibilities and maintainable module boundaries.
-* Automated testing, validation, error handling, and documented development setup.
-* Production-oriented decisions around scalability, reliability, security, and developer experience.
-
-**Stack:** `TypeScript` · `Full-Stack` · `REST APIs` · `PostgreSQL` · `Docker`
