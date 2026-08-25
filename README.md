@@ -101,16 +101,12 @@ Technologies I have worked with across professional products, internal platforms
 
 ---
 
-### AI engineering
+### Architecture and engineering
 
-**AI-native development:** Claude Code · Cursor · OpenAI Codex · Agentic Workflows · Context Engineering · Codebase Analysis · Implementation Planning · AI-Assisted Code Review
-
-I use AI as part of the engineering workflow across repository exploration, planning, implementation, refactoring, testing, debugging, and review, with validation through automated tests, static analysis, and CI/CD feedback.
+**Engineering:** System Design · Software Architecture · REST APIs · Event-Driven Systems · Automated Testing · Jest · React Testing Library · Playwright · SonarQube
 
 ---
 
-### Testing and engineering quality
+### AI engineering
 
-**Testing and quality:** Jest · React Testing Library · Playwright · Unit Testing · Integration Testing · Automated Testing · Code Coverage · SonarQube · CI/CD
-
-Testing, maintainability, accessibility, documentation, and developer experience are treated as part of product delivery rather than separate finishing steps.
+**AI-native engineering:** Claude Code · Cursor · OpenAI Codex · Agentic Workflows · Context Engineering · AI-Assisted Development
