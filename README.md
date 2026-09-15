@@ -2,7 +2,7 @@
 
 # Rodolfo Spier
 
-### Senior Full-Stack Software Engineer
+### Senior Software Engineer
 
 **Product & Technical Ownership · Architecture · AI Engineering**
 
